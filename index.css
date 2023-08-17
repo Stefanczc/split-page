@@ -54,6 +54,7 @@
   text-align: center;
   font-size: 18px;
   font-weight: bold;
+  white-space: nowrap;
 }
 
 .left-side {
@@ -84,7 +85,7 @@
   background-image: url(./assets/xbox.jpg);
 }
 
-.side-data > button:hover {
+.right-side > .side-data > button:hover {
   background-color: rgb(28, 122, 28);
-  border: none;
+  border-color: rgb(28, 122, 28);
 }/*# sourceMappingURL=index.css.map */
